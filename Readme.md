@@ -47,9 +47,9 @@ cp .env.example .env
 php artisan migrate
 ```
 
-####Congrats, application ready to use.
+#### Congrats, application ready to use.
 
-##API Documentation
+## API Documentation
 
 You can find REST API documentation in tictactoe.yaml file into root directory of this project.
 Just open this file in this online [editor](https://editor.swagger.io/). 
